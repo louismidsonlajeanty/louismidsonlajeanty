@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @louismidsonlajeanty
+- 👋 Hi, I’m @midsonlajeanty
 - 👀 I’m interested in  web Developpement
 - 🌱 I’m currently learning Javascript and the framework Vue.js
 - 💞️ I’m looking to collaborate on concrete projects
